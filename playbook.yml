@@ -2,3 +2,4 @@
   tasks:
      - debug: "msg=Hello"
      - debug: "msg=Task 2"
+     - debug: "msg=development task"
