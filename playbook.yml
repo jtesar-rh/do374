@@ -1,0 +1,3 @@
+- hosts: servera
+  tasks:
+     - debug: "msg=Hello"
