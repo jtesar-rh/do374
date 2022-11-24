@@ -1,4 +1,6 @@
 - hosts: all
+  roles:
+    - do374.useful.usefulrole
   tasks:
      - debug:
          msg: "Hello world!!!"
